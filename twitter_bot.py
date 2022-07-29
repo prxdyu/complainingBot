@@ -6,12 +6,12 @@ import time
 
 TWITTER_LOGIN_PAGE="https://twitter.com/i/flow/login"
 # enter below your email id
-TWITTER_MAIL="pradyu2471"
+TWITTER_MAIL="your mailId or username"
 SPEED_TEST_LINK= "https://www.speedtest.net/"
 # please check your chrome browser version and download chrome driver for that specific version and paste it in the below given directory
 CHROME_DRIVER_PATH= "C:\Development\chromedriver.exe"
 # enter your password
-TWITTER_PW="Gala2471xy"
+TWITTER_PW="password"
 # Enter the internet service provider promised upload speed
 PROMISED_UPLOAD_SPEED=100
 # Enter the internet service provider promised download speed
