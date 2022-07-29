@@ -1,2 +1,1 @@
-# complainingBot
-An automated bot using selenium, python
+This bot performs automated internet speed test ,if the promised upload/download speed is less than the actual speed then it automatically logs into your twitter account using your provided credentials and tweets a complaint against your ISP  
